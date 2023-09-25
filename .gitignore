@@ -1,0 +1,9 @@
+# Archivos de configuración local
+.env
+.env.*
+
+# Archivos generados por Python y Django
+__pycache__/
+*.pyc
+*.pyo
+*.db.sqlite3
