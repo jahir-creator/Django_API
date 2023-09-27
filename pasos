@@ -20,3 +20,5 @@ python manage.py createsuperuser
 
 #EJECUTAR SERVIDOR
 python manage.py runserver
+
+p
